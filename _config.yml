@@ -1,0 +1,28 @@
+name: The Cue
+favicon: null
+layout_spectrum: 0.17516450327821076
+typography_spectrum: 0.6459080295171589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.662510231602937
+  lightness: 0.1541238478384912
+  saturation: 0.30564696132205427
+  rhythmicContrast: 0.8847447521984577
+purpose: []
